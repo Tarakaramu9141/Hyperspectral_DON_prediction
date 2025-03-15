@@ -67,13 +67,15 @@ hyperspectral-don-prediction/
 * **Data Preprocessing:** Robust handling of missing data and feature normalization.
 * **Machine Learning Model:** Employing neural networks for accurate predictions.
 
+<p align="center">
+  <img src="images/corn.gif" width="100" height="100">
+  <img src="images/ml.gif" width="100" height="100">
+</p>
+
 ## Contributing 🤝
 
 Contributions are welcome! Feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
 
 
-<p align="center">
-  <img src="images/corn.gif" width="100" height="100">
-  <img src="images/ml.gif" width="100" height="100">
-</p>
+
